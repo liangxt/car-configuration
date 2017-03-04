@@ -8,7 +8,6 @@ import java.io.Serializable;
  */
 /**
  * The class for OptionSet.
- * @author Xiaotong Liang (xiaotonl@andrew.cmu.edu)
  */
 public class OptionSet implements Serializable {
     /**
