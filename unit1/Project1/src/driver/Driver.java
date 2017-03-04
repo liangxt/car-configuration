@@ -25,7 +25,7 @@ public class Driver {
     public static void main(String[] args) {
         System.out.println("Test 1:");
         FileIO util1 = new FileIO();
-        Automotive FordZTW1 = util1.buildAutoObject("src\\FordZTW1.txt");
+        Automotive FordZTW1 = util1.buildAutoObject("src/FordZTW1.txt");
         FordZTW1.print();
         System.out.println("The test of creating OptionSet and Option was done when the Automoyive object was created.");
         System.out.println("**************Delete OptionSet*************");
