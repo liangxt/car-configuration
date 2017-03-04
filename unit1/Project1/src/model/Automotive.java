@@ -10,7 +10,6 @@ import model.OptionSet.Option;
  */
 /**
  * The class for Automotive.
- * @author Xiaotong Liang (xiaotonl@andrew.cmu.edu)
  */
 public class Automotive implements Serializable {
     /**
