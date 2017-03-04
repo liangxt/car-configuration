@@ -178,7 +178,6 @@ public class OptionSet implements Serializable {
 
     /**
      * The inner class for Option.
-     * @author Xiaotong Liang (xiaotonl@andrew.cmu.edu)
      */
     protected class Option implements Serializable {
         /**
