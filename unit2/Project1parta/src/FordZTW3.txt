@@ -1,0 +1,15 @@
+FordZTW
+18445
+5
+10,2,3,2,2
+
+Fort Knox Gold Clearcoat Mettallic, Liquid Grey Clearcoat Metallic, Infra-Red Clearcoat, Grabber Green Clearcoat Metallic, Sangria Red Clearcoat Metallic, French Blue Clearcoat Metallic, Twilight Blue Clearcoat Metallic, CD Silver Clearcoat Metallic, Pitch Black Clearcoat, Cloud 9 White Clearcoat
+Automatic, Manual
+Standard, ABS, ABS with Advance Trac
+present, not present
+present, not present
+0,0,0,0,0,0,0,0,0,0
+0,-815
+0,400,1625
+350,0
+595,0 
