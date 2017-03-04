@@ -12,7 +12,6 @@ import model.Automotive;
  */
 /**
  * The class for FileIO.
- * @author Xiaotong Liang (xiaotonl@andrew.cmu.edu)
  */
 public class FileIO {
     /**
