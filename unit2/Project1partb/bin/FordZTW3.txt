@@ -1,0 +1,11 @@
+Focus Wagon ZTW3
+15679
+3
+2,3,2
+Transmission, Brakes/Traction Control, Side Impact Air Bags
+Automatic, Manual
+Standard, ABS, ABS with Advance Trac
+present, not present
+0,-815
+0,400,1625
+350,0
