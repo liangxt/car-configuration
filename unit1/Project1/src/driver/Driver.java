@@ -15,7 +15,6 @@ import util.FileIO;
  */
 /**
  * The class for Driver.
- * @author Xiaotong Liang (xiaotonl@andrew.cmu.edu)
  */
 public class Driver {
     /**
@@ -43,71 +42,6 @@ public class Driver {
         FordZTW1.print();
         System.out.println("**************Update Option Price*************");
         FordZTW1.setOptionPrice(100, 0, 0);
-        FordZTW1.print();
-        
-        
-        
-//        if (FordZTW1 == null) {
-//            System.out.println("Error!");
-//        } else {
-//            FordZTW1.print();
-//            System.out.println("**************Written object to disk*************");
-//            try {
-//                @SuppressWarnings("resource")
-//                ObjectOutputStream oos1 = new ObjectOutputStream(new FileOutputStream("src\\util\\FordZTW1.ser"));
-//                oos1.writeObject(FordZTW1);
-//                @SuppressWarnings("resource")
-//                ObjectInputStream ois1 = new ObjectInputStream(new FileInputStream("src\\util\\FordZTW1.ser"));
-//                Automotive Automodel1 = (Automotive) ois1.readObject();
-//                Automodel1.print();
-//            } catch (Exception e1) {
-//                System.out.println("Problem\n");
-//            }
-//        }
-//
-//        System.out.println("Test 2:");
-//        FileIO util2 = new FileIO();
-//        Automotive FordZTW2 = util2.buildAutoObject("src\\FordZTW2.txt");
-//        if (FordZTW2 == null) {
-//            System.out.println("Error!");
-//        } else {
-//            FordZTW2.print();
-//            System.out.println("**************Written object to disk*************");
-//            try {
-//                @SuppressWarnings("resource")
-//                ObjectOutputStream oos2 = new ObjectOutputStream(new FileOutputStream("src\\util\\FordZTW2.ser"));
-//                oos2.writeObject(FordZTW2);
-//                @SuppressWarnings("resource")
-//                ObjectInputStream ois2 = new ObjectInputStream(new FileInputStream("src\\util\\FordZTW2.ser"));
-//                Automotive Automodel2 = (Automotive) ois2.readObject();
-//                Automodel2.print();
-//            } catch (Exception e1) {
-//                System.out.println("Problem\n");
-//            }
-//        }
-//
-//        System.out.println("Test 3:");
-//        FileIO util3 = new FileIO();
-//        Automotive FordZTW3 = util3.buildAutoObject("src\\FordZTW3.txt");
-//        if (FordZTW3 == null) {
-//            System.out.println("Error!");
-//        } else {
-//            FordZTW3.print();
-//            System.out.println("**************Written object to disk*************");
-//            try {
-//                @SuppressWarnings("resource")
-//                ObjectOutputStream oos3 = new ObjectOutputStream(new FileOutputStream("src\\util\\FordZTW3.ser"));
-//                oos3.writeObject(FordZTW2);
-//                @SuppressWarnings("resource")
-//                ObjectInputStream ois3 = new ObjectInputStream(new FileInputStream("src\\util\\FordZTW3.ser"));
-//                Automotive Automodel3 = (Automotive) ois3.readObject();
-//                Automodel3.print();
-//            } catch (Exception e1) {
-//                System.out.println("Problem\n");
-//            }
-//        }
-//        
-//        
-//        
+        FordZTW1.print();        
    }
 }
