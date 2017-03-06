@@ -1,0 +1,16 @@
+Benz
+Sport
+16720
+5
+10,2,3,2,2
+Color, Transmission, Brakes/Traction Control, Side Impact Air Bags, Power Moonroof
+Gold, Grey, Red, Green, Sangria-Red, Blue, Twilight_Blue, Silver, Black, White
+Automatic, Manual
+Standard, ABS, ABS with Advance Trac
+present, not present
+present, not present
+100,200,300,400,500,600,700,800,900,1000
+0,-815
+0,400,1658
+300,0
+600,0 
