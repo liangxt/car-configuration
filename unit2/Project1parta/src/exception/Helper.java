@@ -8,7 +8,6 @@ import model.Automobile;
  */
 /**
  * The interface for Helper.
- * @author Xiaotong Liang (xiaotonl@andrew.cmu.edu)
  */
 public class Helper {
 
